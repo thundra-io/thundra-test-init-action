@@ -1,5 +1,5 @@
-name: "Thundra Initializer"
-description: "Thundra Initializer"
+name: "Thundra Test Initializer"
+description: "Thundra Test Initializer"
 author: "Oguzhan Ozdemir <oguzhan.ozdemir@thundra.io>"
 runs:
   using: "node12"
