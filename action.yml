@@ -1,0 +1,9 @@
+name: "Thundra Initializer"
+description: "Thundra Initializer"
+author: "Oguzhan Ozdemir <oguzhan.ozdemir@thundra.io>"
+runs:
+  using: "node12"
+  main: "dist/index.js"
+branding:
+  icon: "umbrella"
+  color: "red"
