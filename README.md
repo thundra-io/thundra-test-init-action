@@ -1,6 +1,6 @@
 # thundra-test-init-action
 
-A GitHub Action to set proper outputs before running [Thundra Gradle Test Action](https://github.com/thundra-io/thundra-gradle-test-action) and [Thundra Maven Test Action](https://github.com/thundra-io/thundra-maven-test-action) when using a **build matrix**.
+A GitHub Action to set proper outputs before running Thundra test run actions when using a **build matrix**.
 
 ## Usage
 
